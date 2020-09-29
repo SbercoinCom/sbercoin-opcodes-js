@@ -1,0 +1,24 @@
+{
+  "name": "@sbercoin-opcodes/sbercoin-opcodes",
+  "version": "1.0.0",
+  "description": "Sbercoin opcodes map",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SbercoinCom/sbercoin-opcodes-js.git"
+  },
+  "keywords": [
+    "sbercoinchain",
+    "sbercoin",
+    "opcodes"
+  ],
+  "author": "Blockchain Solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SbercoinCom/sbercoin-opcodes-js/issues"
+  },
+  "homepage": "https://github.com/SbercoinCom/sbercoin-opcodes-js#readme"
+}
